@@ -1,5 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom'
+import CollegeSearch from './CollegeSearch';
 
 const Navbar = () => {
   return (
@@ -23,6 +24,7 @@ const Navbar = () => {
             <li>
               <Link to={'/mycollege'} className="text-white hover:text-gray-200">MyCollage</Link>
             </li>
+            {/* <li><CollegeSearch></CollegeSearch></li> */}
           </ul>
 
           {/* Optional user profile button */}
