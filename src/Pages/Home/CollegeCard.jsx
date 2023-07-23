@@ -2,6 +2,7 @@
 import React from 'react';
 
 const CollegeCard = ({ college, handleDetailsClick }) => {
+  console.log();
   return (
     <div className="border rounded p-4 mb-4">
       <img src={college.image} alt={college.name} className="w-24 h-24 mx-auto mb-4 rounded-full" />

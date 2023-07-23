@@ -1,0 +1,236 @@
+[
+    {
+      "name": "ABC College",
+      "image": "https://drive.google.com/file/d/1TR2Iv7XN-rZ-ZwXK3UWuR2wu0sF7RRZH/view?usp=sharing",
+      "admissionDates": ["2023-08-15", "2023-09-01", "2023-09-15"],
+      "events": ["Fresher's Party", "Annual Sports Meet", "Tech Fest"],
+      "researchHistory": "Founded in 1975, ABC College has a rich history of research in various fields.",
+      "sports": ["Football", "Basketball", "Volleyball"],
+      "admissionProcess": "ABC College follows a rigorous admission process that includes an entrance exam and an interview.",
+      "eventDetails": {
+        "Fresher's Party": "Date: September 5, 2023, Venue: College Auditorium",
+        "Annual Sports Meet": "Date: October 12-15, 2023, Venue: College Grounds",
+        "Tech Fest": "Date: November 20-22, 2023, Venue: College Campus"
+      },
+      "researchWorks": [
+        {
+          "title": "Advancements in Green Energy",
+          "authors": "John Doe, Jane Smith",
+          "publishedYear": "2022",
+          "link": "https://example.com/research_paper_1.pdf"
+        },
+        {
+          "title": "Biotechnology and Its Applications",
+          "authors": "Michael Johnson, Emily Brown",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_2.pdf"
+        },
+        {
+          "title": "Artificial Intelligence in Healthcare",
+          "authors": "David Lee, Sarah Miller",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_3.pdf"
+        }
+      ],
+      "sportsCategories": {
+        "Football": "Men's and Women's Football teams participate in national-level tournaments.",
+        "Basketball": "College has a well-equipped basketball court and organizes intra-college tournaments.",
+        "Volleyball": "Inter-college volleyball championship held annually in college premises."
+      }
+    },
+    {
+      "name": "XYZ University",
+      "image": "college_image_url_2.jpg",
+      "admissionDates": ["2023-07-30", "2023-08-10", "2023-08-25"],
+      "events": ["Cultural Fest", "Science Exhibition", "Alumni Meet"],
+      "researchHistory": "XYZ University is known for groundbreaking research in science and technology.",
+      "sports": ["Cricket", "Badminton", "Table Tennis"],
+      "admissionProcess": "XYZ University admits students based on merit and conducts a group discussion for final selection.",
+      "eventDetails": {
+        "Cultural Fest": "Date: December 15-20, 2023, Venue: University Campus",
+        "Science Exhibition": "Date: January 5-8, 2024, Venue: Science Block",
+        "Alumni Meet": "Date: November 10, 2023, Venue: University Auditorium"
+      },
+      "researchWorks": [
+        {
+          "title": "Quantum Computing: A New Paradigm",
+          "authors": "Andrew Johnson, Lisa Adams",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_4.pdf"
+        },
+        {
+          "title": "Nanotechnology Applications in Medicine",
+          "authors": "Robert Williams, Susan Lee",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_5.pdf"
+        },
+        {
+          "title": "Machine Learning Techniques for Data Analysis",
+          "authors": "Michael Brown, Jennifer Martinez",
+          "publishedYear": "2022",
+          "link": "https://example.com/research_paper_6.pdf"
+        }
+      ],
+      "sportsCategories": {
+        "Cricket": "The university has a strong cricket team that competes in inter-university tournaments.",
+        "Badminton": "Badminton courts available for students to practice and participate in college competitions.",
+        "Table Tennis": "Table tennis championship held annually with active student participation."
+      }
+    },
+    {
+      "name": "ABC College",
+      "image": "https://drive.google.com/file/d/1TR2Iv7XN-rZ-ZwXK3UWuR2wu0sF7RRZH/view?usp=sharing",
+      "admissionDates": ["2023-08-15", "2023-09-01", "2023-09-15"],
+      "events": ["Fresher's Party", "Annual Sports Meet", "Tech Fest"],
+      "researchHistory": "Founded in 1975, ABC College has a rich history of research in various fields.",
+      "sports": ["Football", "Basketball", "Volleyball"],
+      "admissionProcess": "ABC College follows a rigorous admission process that includes an entrance exam and an interview.",
+      "eventDetails": {
+        "Fresher's Party": "Date: September 5, 2023, Venue: College Auditorium",
+        "Annual Sports Meet": "Date: October 12-15, 2023, Venue: College Grounds",
+        "Tech Fest": "Date: November 20-22, 2023, Venue: College Campus"
+      },
+      "researchWorks": [
+        {
+          "title": "Advancements in Green Energy",
+          "authors": "John Doe, Jane Smith",
+          "publishedYear": "2022",
+          "link": "https://example.com/research_paper_1.pdf"
+        },
+        {
+          "title": "Biotechnology and Its Applications",
+          "authors": "Michael Johnson, Emily Brown",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_2.pdf"
+        },
+        {
+          "title": "Artificial Intelligence in Healthcare",
+          "authors": "David Lee, Sarah Miller",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_3.pdf"
+        }
+      ],
+      "sportsCategories": {
+        "Football": "Men's and Women's Football teams participate in national-level tournaments.",
+        "Basketball": "College has a well-equipped basketball court and organizes intra-college tournaments.",
+        "Volleyball": "Inter-college volleyball championship held annually in college premises."
+      }
+    },
+    {
+      "name": "XYZ University",
+      "image": "college_image_url_2.jpg",
+      "admissionDates": ["2023-07-30", "2023-08-10", "2023-08-25"],
+      "events": ["Cultural Fest", "Science Exhibition", "Alumni Meet"],
+      "researchHistory": "XYZ University is known for groundbreaking research in science and technology.",
+      "sports": ["Cricket", "Badminton", "Table Tennis"],
+      "admissionProcess": "XYZ University admits students based on merit and conducts a group discussion for final selection.",
+      "eventDetails": {
+        "Cultural Fest": "Date: December 15-20, 2023, Venue: University Campus",
+        "Science Exhibition": "Date: January 5-8, 2024, Venue: Science Block",
+        "Alumni Meet": "Date: November 10, 2023, Venue: University Auditorium"
+      },
+      "researchWorks": [
+        {
+          "title": "Quantum Computing: A New Paradigm",
+          "authors": "Andrew Johnson, Lisa Adams",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_4.pdf"
+        },
+        {
+          "title": "Nanotechnology Applications in Medicine",
+          "authors": "Robert Williams, Susan Lee",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_5.pdf"
+        },
+        {
+          "title": "Machine Learning Techniques for Data Analysis",
+          "authors": "Michael Brown, Jennifer Martinez",
+          "publishedYear": "2022",
+          "link": "https://example.com/research_paper_6.pdf"
+        }
+      ],
+      "sportsCategories": {
+        "Cricket": "The university has a strong cricket team that competes in inter-university tournaments.",
+        "Badminton": "Badminton courts available for students to practice and participate in college competitions.",
+        "Table Tennis": "Table tennis championship held annually with active student participation."
+      }
+    },
+    {
+      "name": "ABC College",
+      "image": "https://drive.google.com/file/d/1TR2Iv7XN-rZ-ZwXK3UWuR2wu0sF7RRZH/view?usp=sharing",
+      "admissionDates": ["2023-08-15", "2023-09-01", "2023-09-15"],
+      "events": ["Fresher's Party", "Annual Sports Meet", "Tech Fest"],
+      "researchHistory": "Founded in 1975, ABC College has a rich history of research in various fields.",
+      "sports": ["Football", "Basketball", "Volleyball"],
+      "admissionProcess": "ABC College follows a rigorous admission process that includes an entrance exam and an interview.",
+      "eventDetails": {
+        "Fresher's Party": "Date: September 5, 2023, Venue: College Auditorium",
+        "Annual Sports Meet": "Date: October 12-15, 2023, Venue: College Grounds",
+        "Tech Fest": "Date: November 20-22, 2023, Venue: College Campus"
+      },
+      "researchWorks": [
+        {
+          "title": "Advancements in Green Energy",
+          "authors": "John Doe, Jane Smith",
+          "publishedYear": "2022",
+          "link": "https://example.com/research_paper_1.pdf"
+        },
+        {
+          "title": "Biotechnology and Its Applications",
+          "authors": "Michael Johnson, Emily Brown",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_2.pdf"
+        },
+        {
+          "title": "Artificial Intelligence in Healthcare",
+          "authors": "David Lee, Sarah Miller",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_3.pdf"
+        }
+      ],
+      "sportsCategories": {
+        "Football": "Men's and Women's Football teams participate in national-level tournaments.",
+        "Basketball": "College has a well-equipped basketball court and organizes intra-college tournaments.",
+        "Volleyball": "Inter-college volleyball championship held annually in college premises."
+      }
+    },
+    {
+      "name": "XYZ University",
+      "image": "college_image_url_2.jpg",
+      "admissionDates": ["2023-07-30", "2023-08-10", "2023-08-25"],
+      "events": ["Cultural Fest", "Science Exhibition", "Alumni Meet"],
+      "researchHistory": "XYZ University is known for groundbreaking research in science and technology.",
+      "sports": ["Cricket", "Badminton", "Table Tennis"],
+      "admissionProcess": "XYZ University admits students based on merit and conducts a group discussion for final selection.",
+      "eventDetails": {
+        "Cultural Fest": "Date: December 15-20, 2023, Venue: University Campus",
+        "Science Exhibition": "Date: January 5-8, 2024, Venue: Science Block",
+        "Alumni Meet": "Date: November 10, 2023, Venue: University Auditorium"
+      },
+      "researchWorks": [
+        {
+          "title": "Quantum Computing: A New Paradigm",
+          "authors": "Andrew Johnson, Lisa Adams",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_4.pdf"
+        },
+        {
+          "title": "Nanotechnology Applications in Medicine",
+          "authors": "Robert Williams, Susan Lee",
+          "publishedYear": "2023",
+          "link": "https://example.com/research_paper_5.pdf"
+        },
+        {
+          "title": "Machine Learning Techniques for Data Analysis",
+          "authors": "Michael Brown, Jennifer Martinez",
+          "publishedYear": "2022",
+          "link": "https://example.com/research_paper_6.pdf"
+        }
+      ],
+      "sportsCategories": {
+        "Cricket": "The university has a strong cricket team that competes in inter-university tournaments.",
+        "Badminton": "Badminton courts available for students to practice and participate in college competitions.",
+        "Table Tennis": "Table tennis championship held annually with active student participation."
+      }
+    }
+]
